@@ -1,0 +1,88 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Repretel6" tvg-logo="https://i.postimg.cc/DzdjDSn0/download.png" group-title="Costa Rica", Repretel canal 6 (DRT)
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="Repretel6" tvg-logo="https://i.postimg.cc/DzdjDSn0/download.png" group-title="Costa Rica", Repretel canal 6 (Backup)
+https://d1vr8yxz55pucr.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-id="Teletica" tvg-logo="https://i.postimg.cc/vm24zvkv/Teletica-Logo.png" group-title="Costa Rica", Teletica (Internet)
+https://acceso.radiosportstv.online:3203/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Multimedios" tvg-logo="https://i.postimg.cc/g2tDw1mz/sf-Wg-Wmqk-400x400.jpg" group-title="Costa Rica", Multimedios (DRT)
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+#EXTINF:-1 tvg-id="Multimedios" tvg-logo="https://i.postimg.cc/g2tDw1mz/sf-Wg-Wmqk-400x400.jpg" group-title="Costa Rica", Multimedios (Internet)
+http://45.5.117.182:8000/play/a0dy/index.m3u8
+
+#EXTINF:-1 tvg-id="Repretel11" tvg-logo="https://i.postimg.cc/CLBLTq5c/Repretel-11-logo.png" group-title="Costa Rica", Repretel 11
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="Sinart13" tvg-logo="https://i.postimg.cc/rmGcF1xk/13.jpg" group-title="Costa Rica", Canal 13 SINART
+https://www.dailymotion.com/cdn/live/video/x7vh8g3.m3u8
+
+#EXTINF:-1 tvg-id="ExtraTV" tvg-logo="https://i.postimg.cc/0NC2SkTy/image.png" group-title="Costa Rica", ExtraTV
+https://d2axu5ozwr5gk0.cloudfront.net/live2/gxtra-cr-dxtra-tv_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TVN14" tvg-logo="https://i.postimg.cc/dQ7pBmLt/170843450-282757900028044-4985091107218996219-n-2.png" group-title="Costa Rica", TVN Canal 14
+https://stream.tvn14.com/TVN/CH14.stream_720p/chunklist_w857300240.m3u8
+
+#EXTINF:-1 tvg-id="ExtremaTV" tvg-logo="https://i.postimg.cc/1zkwZQcd/extrema.jpg" group-title="Costa Rica", ExtremaTV
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trivision36" tvg-logo="https://i.postimg.cc/X7qJxP9B/trivision.jpg" group-title="Costa Rica", Trivisión Canal 36
+https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OPA" tvg-logo="https://i.postimg.cc/fLN8cFq6/opa.png" group-title="Costa Rica", OPA
+https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w215971633.m3u8
+
+#EXTINF:-1 tvg-id="TigoSportsGT" tvg-logo="https://i.postimg.cc/j58T7sgg/tgo.png" group-title="Deportes", Tigo Sports HD Guatemala
+http://45.5.117.182:8000/play/ljt0/index.m3u8
+
+#EXTINF:-1 tvg-id="FUTV" tvg-logo="https://i.postimg.cc/fbdkmq6n/20200720191227-20200709160812futv-x2.webp" group-title="Deportes", FUTV (Internet)
+http://45.5.117.182:8000/play/a0jm/index.m3u8
+
+#EXTINF:-1 tvg-id="FUTVLow" tvg-logo="https://i.postimg.cc/fbdkmq6n/20200720191227-20200709160812futv-x2.webp" group-title="Deportes", FUTV (Calidad baja)
+http://45.5.117.182:8000/play/a0c9/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleticaRadio" tvg-logo="https://i.postimg.cc/W3MzXmqT/YJq-Xu-J-s-400x400.png" group-title="Deportes", Teletica Radio (Con imagen)
+https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/TeleticaLiveStreamTRadio/Streamtradio1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TDPlus" tvg-logo="https://i.postimg.cc/wBk8ChNR/tdmas.jpg" group-title="Deportes", T.D+ HD (GAL)
+http://galaxypro.online:8080/PFvb52FQZLtV/Fvw3M295NVar/384098
+
+#EXTINF:-1 tvg-id="TDPlus2" tvg-logo="https://i.postimg.cc/wBk8ChNR/tdmas.jpg" group-title="Deportes", T.D+ 2 (GAL)
+http://galaxypro.online:8080/PFvb52FQZLtV/Fvw3M295NVar/384099
+
+#EXTINF:-1 tvg-id="ESPN1ARG" tvg-logo="https://i.postimg.cc/qBFFNmXx/espn1-argentina.png" group-title="Deportes", ESPN 1 Argentina
+http://191.52.214.5:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2ARG" tvg-logo="https://i.postimg.cc/qqKWJnYT/ESPN-2.jpg" group-title="Deportes", ESPN 2 Argentina
+http://191.52.214.5:8000/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN3ARG" tvg-logo="https://i.postimg.cc/Hnm9MynH/ESPN-3.png" group-title="Deportes", ESPN 3 Argentina
+http://191.52.214.5:8000/play/a025/index.m3u8
+
+#EXTINF:-1 tvg-id="USA" tvg-logo="https://i.postimg.cc/HkwkL85d/USA-NET.png" group-title="Internacional", USA Network
+http://45.5.117.182:8000/play/a0hs/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.postimg.cc/3xfYNjNM/AXN.png" group-title="Internacional", AXN
+http://191.52.214.5:8000/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN2" tvg-logo="https://i.postimg.cc/3xfYNjNM/AXN.png" group-title="Internacional", AXN (Opción 2)
+http://45.5.117.182:8000/play/a0xn/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.postimg.cc/brg4M82X/tnt.png" group-title="Internacional", TNT
+http://181.78.105.146:8800/play/a060
+
+#EXTINF:-1 tvg-id="TNTHD" tvg-logo="https://i.postimg.cc/brg4M82X/tnt.png" group-title="Internacional", TNT HD
+http://45.5.117.182:8000/play/a0i9/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSeries" tvg-logo="https://i.postimg.cc/C5xcR8dt/tnt-series.png" group-title="Internacional", TNT Series
+http://191.52.214.5:8000/play/a059/index.m3u8
+
+#EXTINF:-1 tvg-id="Warner" tvg-logo="https://i.postimg.cc/T3VnXw3W/warner.webp" group-title="Internacional", Warner Channel HD
+http://191.52.214.5:8000/play/a01u/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDNUSA" group-title="Deportes", TUDN USA
+http://45.5.117.182:8000/play/a0km/index.m3u8
